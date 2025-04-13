@@ -1,3 +1,5 @@
 # RAM
 
 Thanks for using Roblox Account Manager!
+
+## WHEN UPDATING, MAKE SURE TO COPY PASTE YOUR passhash.bin AND salt.bin FILES TO THE ROOT DIRECTORY OF THE PACKAGE (IN THE DIRECTORY OF THE .EXE FILE)
